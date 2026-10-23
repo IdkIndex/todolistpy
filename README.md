@@ -1,6 +1,6 @@
 <h1>TODOLIST.py</h1>
 
-![Latest version](https://img.shields.io/github/v/release/IdkIndex/todolistpy?label=version&color=brightgreen)
+[![Latest version](https://img.shields.io/github/v/release/IdkIndex/todolistpy?label=latest%20version&color=green)](https://github.com/IdkIndex/todolistpy/releases)
 
 <h3>a todolist because of...... no reason.</h3>
 
